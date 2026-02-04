@@ -14,6 +14,8 @@ This framework follows the **Page Object Model (POM)** architecture:
 -   **Core Layer:** Handles the driver initialization and common wrapper methods.
 -   **Config Layer:** Centralized location for test data and environments.
 
+
+
 ### 📂 Folder Structure
 ```text
 POM_Framework/
@@ -25,3 +27,6 @@ POM_Framework/
 ├── venv/              # Virtual Environment
 ├── .gitignore         # Files excluded from Git
 └── requirements.txt   # Project Dependencies
+
+
+
